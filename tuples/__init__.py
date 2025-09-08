@@ -1,0 +1,1 @@
+from .code import task_1_tuple, task_2_tuple, task_3_tuple

@@ -1,0 +1,1 @@
+from .code import task_1_set, task_2_set, task_3_set, task_4_set, task_5_set

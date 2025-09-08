@@ -1,0 +1,1 @@
+from .code import task_1_list, task_2_list, task_3_list, task_4_list, task_5_list

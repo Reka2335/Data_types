@@ -1,0 +1,1 @@
+from .code import task_1_dict, task_2_dict, task_3_dict, task_4_dict, task_5_dict
